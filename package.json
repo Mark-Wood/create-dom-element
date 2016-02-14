@@ -1,0 +1,26 @@
+{
+  "name": "create-dom-element",
+  "version": "0.0.1",
+  "description": "A lightweight enhanced createElement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mark-Wood/create-dom-element.git"
+  },
+  "keywords": [
+    "dom",
+    "createElement"
+  ],
+  "author": "Mark-Wood <mark@markjameswood.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mark-Wood/create-dom-element/issues"
+  },
+  "homepage": "https://github.com/Mark-Wood/create-dom-element",
+  "dependencies": {
+    "global": "^4.3.0"
+  }
+}
